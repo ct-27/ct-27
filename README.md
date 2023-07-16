@@ -4,7 +4,7 @@ Hey there !
 
 Currently Pursuing B Tech. in Computer Science and Engineering (CSE) in Kalinga Institute of Industrial Technology (KIIT).
 ----------------------------------------------------------------
-- 🌱 I’m currently learning - Frontend Web Development.
+- 🌱 I’m currently learning - Web Development.
 - 💞️ I’m looking to collaborate on the topics related to - 
    DSA, Web Development, C/C++, Java.
 
